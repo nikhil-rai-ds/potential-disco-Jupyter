@@ -1,0 +1,215 @@
+ADP,Example,BI Table,Fields,Comment
+timeCards_0_dailyTotals_3_rate_amountValue,17.5,,,
+timeCards_0_dailyTotals_20_rate_baseMultiplierValue,,,,
+timeCards_0_dailyTotals_12_timeDuration,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_dailyTotals_20_rate_currencyCode,,,,
+timeCards_0_dailyTotals_5_payCode_codeValue,REG,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_dailyTotals_18_timeDuration,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_dailyTotals_5_rate_amountValue,17.5,,,
+timeCards_0_periodTotals_3_amount_amountValue,,,,
+timeCards_0_dailyTotals_15_payCode_codeValue,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_dailyTotals_14_rate_amountValue,,,,
+timeCards_0_dailyTotals_17_rate_baseMultiplierValue,,,,
+timeCards_0_dailyTotals_0_timeDuration,PT6H44M,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_homeLaborAllocations_1_allocationTypeCode_codeValue,16,,,
+timeCards_0_dailyTotals_0_payCode_codeValue,REG,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_dailyTotals_16_entryDate,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_dailyTotals_19_payCode_codeValue,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+workerID_schemeCode_codeValue,EmployeeID,,,
+timeCards_0_dailyTotals_18_payCode_codeValue,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_dailyTotals_11_rate_baseMultiplierValue,,,,
+timeCards_0_dailyTotals_16_payCode_codeValue,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_periodTotals_2_rate_amountValue,,,,
+timeCards_0_dailyTotals_14_timeDuration,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_dailyTotals_9_rate_amountValue,17.5,,,
+timeCards_0_dailyTotals_1_rate_baseMultiplierValue,1,,,
+timeCards_0_periodTotals_4_rate_amountValue,,,,
+timeCards_0_periodTotals_4_timeDuration,,,,
+timeCards_0_dailyTotals_11_payCode_codeValue,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_dailyTotals_13_rate_baseMultiplierValue,,,,
+timeCards_0_dailyTotals_10_rate_baseMultiplierValue,,,,
+timeCards_0_dailyTotals_11_timeDuration,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_dailyTotals_13_rate_amountValue,,,,
+timeCards_0_periodTotals_1_amount_amountValue,,,,
+timeCards_0_periodTotals_3_timeDuration,,,,
+timeCards_0_personLegalName_familyName1,Abdallah,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],LastName,
+timeCards_0_timePeriod_endDate,11-01-2025,,,new field
+timeCards_0_dailyTotals_12_rate_baseMultiplierValue,,,,
+timeCards_0_dailyTotals_1_rate_currencyCode,,,,
+timeCards_0_reviewStatusCode_longName,,,,
+timeCards_0_periodCode_longName,Current Pay Period,,,new field
+timeCards_0_processingStatusCode_codeValue,Processed,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCGDescEnglish,
+timeCards_0_dailyTotals_15_timeDuration,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_periodTotals_0_rate_amountValue,20.6171,,,
+timeCards_0_dailyTotals_2_payCode_codeValue,G772,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_dailyTotals_17_payCode_codeValue,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_dailyTotals_4_timeDuration,PT7H8M,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_dailyTotals_14_entryDate,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_dailyTotals_2_rate_amountValue,20.6171,,,
+timeCards_0_dailyTotals_12_payCode_codeValue,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_dailyTotals_3_rate_currencyCode,,,,
+timeCards_0_dailyTotals_9_payCode_codeValue,REG,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_dailyTotals_7_rate_baseMultiplierValue,1,,,
+timeCards_0_dailyTotals_10_timeDuration,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_periodTotals_0_rate_baseMultiplierValue,1,,,
+timeCards_0_totalPeriodTimeDuration,P3DT19M,,,
+timeCards_0_dailyTotals_10_rate_currencyCode,,,,
+timeCards_0_dailyTotals_0_rate_baseMultiplierValue,1,,,
+timeCards_0_dailyTotals_15_rate_amountValue,,,,
+timeCards_0_dailyTotals_17_rate_currencyCode,,,,
+timeCards_0_dailyTotals_8_entryDate,10-01-2025,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_dailyTotals_2_timeDuration,PT4H36M,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+associateOID,G3FQK56H53H9PW3B,,,
+timeCards_0_dailyTotals_4_entryDate,04-01-2025,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_periodTotals_4_rate_baseMultiplierValue,,,,
+personLegalName_formattedName,"Abdallah, Cynthia",,,
+timeCards_0_dailyTotals_3_timeDuration,PT9H15M,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_periodTotals_0_rate_currencyCode,,,,
+timeCards_0_dailyTotals_2_rate_baseMultiplierValue,1,,,
+timeCards_0_dailyTotals_20_entryDate,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_dailyTotals_6_rate_amountValue,17.5,,,
+timeCards_0_homeLaborAllocations_0_allocationCode_codeValue,340-999,,,
+timeCards_0_dailyTotals_13_payCode_codeValue,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_periodTotals_2_rate_baseMultiplierValue,,,,
+timeCards_0_periodTotals_0_payCode_codeValue,G772,,,
+timeCards_0_periodTotals_1_payCode_codeValue,REG,,,
+timeCards_0_dailyTotals_17_timeDuration,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_dailyTotals_16_timeDuration,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_dailyTotals_17_entryDate,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_dailyTotals_18_rate_amountValue,,,,
+timeCards_0_dailyTotals_4_rate_amountValue,17.5,,,
+timeCards_0_periodTotals_3_payCode_codeValue,,,,
+timeCards_0_periodTotals_2_amount_currencyCode,CA,,,
+timeCards_0_dailyTotals_19_timeDuration,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_periodTotals_3_rate_amountValue,,,,
+timeCards_0_dailyTotals_7_rate_currencyCode,,,,
+timeCards_0_dailyTotals_8_rate_amountValue,17.5,,,
+timeCards_0_dailyTotals_19_entryDate,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_dailyTotals_16_rate_baseMultiplierValue,,,,
+timeCards_0_dailyTotals_13_rate_currencyCode,,,,
+timeCards_0_periodTotals_1_timeDuration,P2DT15H7M,,,
+timeCards_0_dailyTotals_11_entryDate,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_dailyTotals_20_payCode_codeValue,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_dailyTotals_20_rate_amountValue,,,,
+timeCards_0_periodTotals_3_amount_currencyCode,,,,
+timeCards_0_dailyTotals_1_payCode_codeValue,G772,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_periodTotals_3_rate_currencyCode,,,,
+timeCards_0_reviewStatusCode_codeValue,,,,
+timeCards_0_dailyTotals_1_entryDate,01-01-2025,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_homeLaborAllocations_0_allocationTypeCode_shortName,TC-Cost Centre,,,
+timeCards_0_dailyTotals_9_timeDuration,PT6H28M,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_dailyTotals_8_rate_currencyCode,,,,
+timeCards_0_dailyTotals_14_rate_currencyCode,,,,
+timeCards_0_periodTotals_0_timeDuration,PT9H12M,,,
+timeCards_0_dailyTotals_6_rate_currencyCode,,,,
+timeCards_0_dailyTotals_13_entryDate,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_dailyTotals_10_entryDate,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_periodTotals_3_rate_baseMultiplierValue,,,,
+timeCards_0_homeLaborAllocations_0_allocationTypeCode_codeValue,5,,,
+timeCards_0_periodTotals_4_rate_currencyCode,,,,
+timeCards_0_dailyTotals_15_rate_baseMultiplierValue,,,,
+timeCards_0_dailyTotals_0_rate_amountValue,17.5,,,
+timeCards_0_personLegalName_formattedName,"Abdallah, Cynthia",,,
+timeCards_0_dailyTotals_18_rate_currencyCode,,,,
+timeCards_0_timeCardID,4057027092,,,newfield
+timeCards_0_dailyTotals_19_rate_currencyCode,,,,
+timeCards_0_dailyTotals_19_rate_amountValue,,,,
+timeCards_0_dailyTotals_11_rate_amountValue,,,,
+timeCards_0_periodTotals_2_payCode_codeValue,G39,,,
+timeCards_0_dailyTotals_8_timeDuration,PT9H,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_dailyTotals_6_rate_baseMultiplierValue,1,,,
+timeCards_0_dailyTotals_13_timeDuration,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_dailyTotals_7_entryDate,09-01-2025,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_dailyTotals_4_payCode_codeValue,REG,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_timePeriod_periodStatus,Open,,,new field
+timeCards_0_dailyTotals_1_timeDuration,PT4H36M,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_periodTotals_1_rate_baseMultiplierValue,1,,,
+timeCards_0_periodTotals_2_amount_amountValue,516.83,,,
+personLegalName_familyName1,Abdallah,,,
+timeCards_0_dailyTotals_5_entryDate,07-01-2025,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_dailyTotals_12_entryDate,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_reviewStatusCode_effectiveDate,,,,
+timeCards_0_dailyTotals_14_payCode_codeValue,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_personLegalName_givenName,Cynthia,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],FirstName,
+timeCards_0_dailyTotals_12_rate_amountValue,,,,
+timeCards_0_periodCode_shortName,Current Pay Period,,,
+workerID_idValue,IDE3854851,,,
+timeCards_0_dailyTotals_5_rate_baseMultiplierValue,1,,,
+timeCards_0_dailyTotals_7_payCode_codeValue,REG,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_dailyTotals_6_timeDuration,PT7H34M,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_dailyTotals_15_entryDate,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_dailyTotals_6_payCode_codeValue,REG,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_dailyTotals_0_rate_currencyCode,,,,
+timeCards_0_dailyTotals_2_rate_currencyCode,,,,
+timeCards_0_dailyTotals_3_payCode_codeValue,REG,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_homeLaborAllocations_1_allocationTypeCode_shortName,Department,,,
+timeCards_0_dailyTotals_17_rate_amountValue,,,,
+timeCards_0_processingStatusCode_shortName,Processed,,,
+timeCards_0_dailyTotals_0_entryDate,31-12-2024,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_dailyTotals_2_entryDate,02-01-2025,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_exceptionsIndicator,FALSE,,,
+timeCards_0_periodTotals_2_rate_currencyCode,,,,
+timeCards_0_dailyTotals_18_rate_baseMultiplierValue,,,,
+timeCards_0_dailyTotals_18_entryDate,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_dailyTotals_8_rate_baseMultiplierValue,1,,,
+timeCards_0_positionID,9200558967719_780,,,
+timeCards_0_dailyTotals_19_rate_baseMultiplierValue,,,,
+timeCards_0_dailyTotals_9_rate_currencyCode,,,,
+timeCards_0_associateOID,G3FQK56H53H9PW3B,,,new field
+timeCards_0_dailyTotals_3_entryDate,03-01-2025,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_periodTotals_1_amount_currencyCode,,,,
+timeCards_0_homeLaborAllocations_1_allocationCode_codeValue,340-GS,,,
+timeCards_0_dailyTotals_5_rate_currencyCode,,,,
+timeCards_0_dailyTotals_15_rate_currencyCode,,,,
+timeCards_0_dailyTotals_20_timeDuration,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_timePeriod_startDate,29-12-2024,,,
+timeCards_0_periodTotals_2_timeDuration,,,,
+timeCards_0_workerID_idValue,IDE3854851,,,
+timeCards_0_periodCode_codeValue,current,,,
+timeCards_0_dailyTotals_5_timeDuration,PT7H30M,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_reviewStatusCode_shortName,,,,
+timeCards_0_dailyTotals_1_rate_amountValue,20.6171,,,
+timeCards_0_workerID_schemeCode_codeValue,EmployeeID,,,
+timeCards_0_dailyTotals_7_timeDuration,PT9H28M,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],DurationHrs,"Hours of the start day + number in the name 
+Convert to number"
+timeCards_0_dailyTotals_3_rate_baseMultiplierValue,1,,,
+timeCards_0_periodTotals_1_rate_amountValue,17.5,,,
+timeCards_0_dailyTotals_9_entryDate,11-01-2025,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_dailyTotals_16_rate_currencyCode,,,,
+timeCards_0_dailyTotals_6_entryDate,08-01-2025,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],dtAppliestoDate,
+timeCards_0_dailyTotals_10_rate_amountValue,,,,
+timeCards_0_dailyTotals_10_payCode_codeValue,,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_dailyTotals_4_rate_currencyCode,,,,
+timeCards_0_dailyTotals_11_rate_currencyCode,,,,
+timeCards_0_periodTotals_4_payCode_codeValue,,,,
+timeCards_0_periodTotals_1_rate_currencyCode,,,,
+timeCards_0_dailyTotals_12_rate_currencyCode,,,,
+timeCards_0_dailyTotals_4_rate_baseMultiplierValue,1,,,
+timeCards_0_periodTotals_4_amount_currencyCode,,,,
+personLegalName_givenName,Cynthia,,,
+timeCards_0_dailyTotals_8_payCode_codeValue,REG,[NVGDWSTAGING].[dbo].[SynerionTimeTransAlloc],TCDescription,Status of the starting date + number of day in name
+timeCards_0_dailyTotals_9_rate_baseMultiplierValue,1,,,
+timeCards_0_periodTotals_4_amount_amountValue,,,,
+timeCards_0_dailyTotals_7_rate_amountValue,17.5,,,
+timeCards_0_dailyTotals_14_rate_baseMultiplierValue,,,,
+timeCards_0_dailyTotals_16_rate_amountValue,,,,
